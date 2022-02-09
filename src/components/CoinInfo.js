@@ -7,7 +7,7 @@ import { makeStyles } from '@material-ui/core';
 //import { Line } from 'react-chartjs-2';
 
 import { Chart as ChartJS } from 'chart.js/auto';
-import { Chart, Line } from 'react-chartjs-2';
+import { Line } from 'react-chartjs-2';
 import { chartDays } from './../config/data';
 import SelectButton from './SelectButton';
 
